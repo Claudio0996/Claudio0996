@@ -46,22 +46,6 @@ clareza de lógica e manutenção de código a longo prazo.
 
 ---
 
-### 🗓️ Atividade (visual alternativo ao calendário padrão)
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudio0996&theme=default&utcOffset=-3" />
-</p>
-
----
-
-### 📈 Visão geral do perfil
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudio0996&theme=default" />
-</p>
-
----
-
 ### 📫 Contato
 
 - GitHub: https://github.com/Claudio0996
