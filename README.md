@@ -1,67 +1,60 @@
-<!-- Animação de texto digitando -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Claudio+-+Front-end+Developer;React+%7C+JavaScript+%7C+UI+Engineering;Código+simples%2C+estado+previsível" />
-</p>
+## Claudio — Front-end Developer
+
+Desenvolvedor front-end focado em React e JavaScript, com atenção em organização de estado,
+clareza de lógica e manutenção de código a longo prazo.
 
 ---
 
-### 👋 Sobre mim
-
-Desenvolvedor **front-end** focado em **React**, com atenção forte em **arquitetura de estado**, **organização de código** e **manutenibilidade**.  
-Trabalho priorizando clareza, previsibilidade e separação de responsabilidades.
-
----
-
-### 🧠 Competências
+### 🧠 Competências principais
 
 - JavaScript (ES6+)
-- React (Hooks, Context API, useReducer)
-- Gerenciamento de estado previsível
+- React
+- Context API
+- useReducer
 - Arquitetura baseada em features
-- Refatoração de código legado
-- Validação de dados (Zod)
 - Integração com APIs REST
 - Autenticação com JWT
 
 ---
 
-### 🧩 Filosofia de código
+### 🛠️ Tecnologias mais utilizadas
 
-- Lógica fora do JSX  
-- Estado global só quando necessário  
-- Código simples > abstração excessiva  
-- Pensado para quem vai manter depois  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,react&theme=dark" />
+</p>
 
----
-
-### 🛠️ Stack principal
-
-**Front-end**  
-React · JavaScript · HTML · CSS · Tailwind  
-
-**Padrões**  
-Context API · useReducer · Feature-based structure  
+>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Claudio0996&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio0996&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Claudio0996&show_icons=true&hide_title=true&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio0996&layout=compact&langs_count=6&hide_border=true&theme=default&hide=html,css" />
+</p>
+
+> Linguagens filtradas para evitar ruído.
+
+---
+
+### 🗓️ Atividade (visual alternativo ao calendário padrão)
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudio0996&theme=default&utcOffset=-3" />
 </p>
 
 ---
 
-### 🔥 Consistência
+### 📈 Visão geral do perfil
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Claudio0996&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudio0996&theme=default" />
 </p>
 
 ---
 
 ### 📫 Contato
 
-- GitHub: https://github.com/Claudio0996  
-- LinkedIn: (adicione aqui se quiser)
+- GitHub: https://github.com/Claudio0996
+- LinkedIn: (adicione se quiser)
