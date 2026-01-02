@@ -27,11 +27,19 @@ clareza de lógica e manutenção de código a longo prazo.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade no GitHub
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Claudio0996&show_icons=true&hide_title=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio0996&layout=compact&langs_count=6&hide_border=true&theme=default&hide=html,css" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudio0996&theme=default" />
+</p>
+
+<p align="left">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudio0996&theme=default" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudio0996&theme=default" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudio0996&theme=default&utcOffset=-3" />
 </p>
 
 > Linguagens filtradas para evitar ruído.
