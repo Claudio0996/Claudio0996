@@ -49,4 +49,4 @@ clareza de lógica e manutenção de código a longo prazo.
 ### 📫 Contato
 
 - GitHub: https://github.com/Claudio0996
-- LinkedIn: (adicione se quiser)
+- LinkedIn: https://www.linkedin.com/in/claudio-vinicius-da-silva-figuer%C3%B4a-48a709141/
